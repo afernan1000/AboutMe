@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @afernan1000
 - 👀 I’m interested in quality projects
 - 🌱 I’m currently learning software quality tests
-- 💞️ I’m looking to collaborate on program and data tests
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on program and data quality tests
+- 📫 You can help me visiting my public repository
 
 <!---
 afernan1000/afernan1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
